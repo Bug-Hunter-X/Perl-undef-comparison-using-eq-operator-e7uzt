@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an issue with comparing 'undef' values using the 'eq' operator.  The solution shows the correct way to handle undefined variables.
